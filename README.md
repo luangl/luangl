@@ -29,6 +29,4 @@
   <a href = "mailto:luanf.glaab@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/luangl/luangl/blob/output/github-contribution-grid-snake.svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60a3bc&height=120&section=footer"/>
