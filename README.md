@@ -1,12 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60a3bc&height=120&section=header"/> 
 
-👋 Olá, eu sou o Luan, sou desenvolvedor Full Stack Java
-
-
-👀 Tenho interesses pelas áreas de front-end, JavaScript, Typescript, Java, Back-end.
-
-🌱 Atualmente estudo Full Stack Java na EBAC Escola britânica de artes criativas e tecnologia, e estudo Análise e Desenvolvimento de sistemas na Universidade Positivo.
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luangl&show_icons=true&count_private=true&hide_border=true&title_color=60a3bc&icon_color=60a3bc4&text_color=c9d1d9&bg_color=0d1117" alt="Luan Glaab github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luangl&layout=compact&hide_border=true&title_color=60a3bc&text_color=c9d1d9&bg_color=0d1117" />
